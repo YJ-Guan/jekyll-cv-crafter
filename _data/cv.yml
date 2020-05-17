@@ -1,19 +1,24 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: http://yj-guan.github.io
+projectUrl: gyj-cv
 
 # leave blank fields which you don't want to fill/be displayed
 person:
   name: Yujiang Guan
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
+  profession: Microelectronic Master Candidate
+  location: Shenzhen, China
+  citizenship: China
+  email: yujiang.guan@outlook.com
+  github: /yj-guan
   stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  linkedin: /管宇江
+
+education:
+  - name: Master Splinter Academy
+    degree: Mutant Red-Eared Slider
+    location: sewers of New York City
+    dates: 2007 – 2012
+    link: http://tmnt2012series.wikia.com/
 
 career:
  - position: Foot Clan Antagonist
@@ -70,9 +75,4 @@ sideProjects:
     type: site
     langs: AngularJS/HTML/CSS/Bootstrap
 
-education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+
