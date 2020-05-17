@@ -15,11 +15,15 @@ education:
   - name: Peking Univerisity Shenzhen Graduate School (PKUSZ)
     degree: Academic Master
     location: Shenzhen, China
+    department: Microelectronics, ECE Department
+    link: ece.pku.edu.cn
     dates: 2020 - 2022
     
   - name: Southern University of Science and Technology (SUSTech)
     degree: Bachelor of Engineering (B.E.)
     location: Shenzhen, China
+    department: Microelectronics, EEE Department
+    link: eee.sustech.edu.cn
     dates: 2016 - 2020
 
 career:
