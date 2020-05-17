@@ -9,16 +9,20 @@ person:
   location: Shenzhen, China
   citizenship: China
   email: yujiang.guan@outlook.com
-  github: /yj-guan
-  stackoverflow: /streetturtle
-  linkedin: /管宇江
+  github: yj-guan
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Peking Univerisity Shenzhen Graduate School (PKUSZ)
+    degree: Academic Master
+    location: Shenzhen, China
+    dates: 2020 - 2022
+    link: 
+    
+  - name: Southern University of Science and Technology (SUSTech)
+    degree: Bachelor of Engineering (B.E.)
+    location: Shenzhen, China
+    dates: 2016 - 2020
+    link: 
 
 career:
  - position: Foot Clan Antagonist
